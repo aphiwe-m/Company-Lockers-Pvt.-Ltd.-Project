@@ -1,1 +1,2 @@
 Simple test file
+added another content in the same file
